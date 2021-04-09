@@ -65,7 +65,9 @@ PS: Lea's hours are missing
 | 2021-03-01 | Winterkongress Vorbereitung und Präsentation | lea | 4h |
 | 2021-03-01 | Winterkongress Vorbereitung und Präsentation | thomas | 5h |
 | 2021-03-09 | Einführung Posmo + Präsentation je 1.5 h | roger | 3h |
+| 2021-03-19 | Medienmitteilung & Normentabelle VelObserver | thomas | 6h |
 | 2021-03-19 | Meeting | lea, roberta, marius, thomas, roger | 1.5h |
+| 2021-03-31 | Meetings und Vorbereitungen VelObserver | thomas | 5h |
 | 2020-04-05 | EM meeting 16:10-18:40 | lea, thomas roger | 2.5h |
 | 2020-04-07 | Work on EM-Fragen bis 7. April | ??? | ??? |
 
